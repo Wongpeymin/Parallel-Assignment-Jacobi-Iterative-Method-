@@ -1,0 +1,5 @@
+﻿  jacobi_omp.cpp
+  jacobi_serial.cpp
+  Menu.cpp
+  Generating Code...
+  JacobiMethod.vcxproj -> C:\Users\wongp\Downloads\ParallelNDistributed-main (1)\ParallelNDistributed-main\x64\Debug\JacobiMethod.exe
